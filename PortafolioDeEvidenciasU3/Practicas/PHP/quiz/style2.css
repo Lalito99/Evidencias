@@ -1,0 +1,17 @@
+form{
+		width: 400px;
+		border: 2px solid black;
+		height: 100px;
+		margin-top: 50px;
+		padding-top: 50px;
+		padding-left:10px;
+		font-size: 20px;
+		background-color: blue;
+	}
+	input{
+         width: 70px;
+         border-radius: 50px;
+         border-style: none;
+         background: red;
+         color:white;
+	}

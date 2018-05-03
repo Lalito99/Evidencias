@@ -1,0 +1,28 @@
+form{
+		width: 400px;
+		border: 2px solid black;
+		height: 130px;
+		margin-top: 50px;
+		padding-top: 30px;
+		padding-left:10px;
+		font-size: 20px;
+		background-color: blue;
+	}
+	input{
+	     margin-top:10px;
+         width: 70px;
+         border-radius: 50px;
+         border-style: none;
+         background: red;
+         color:white;
+         text-align: center;
+	}
+	input#nad{
+         width: 70px;
+         border-radius: 50px;
+         border-style: none;
+         background: red;
+         color:white;
+         text-align: center;
+         transform: translate(18%, -330%);
+	}
